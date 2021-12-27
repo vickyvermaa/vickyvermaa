@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Laravel,Angular,Node.js**
 
-- 👨‍💻 All of my projects are available at [demo.com](demo.com)
-
 - 💬 Ask me about **Core PHP, Laravel,react**
 
 - 📫 How to reach me **vickyvermaa22@gmail.com**
 
-- 📄 Know about my experiences [demo.com](demo.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
